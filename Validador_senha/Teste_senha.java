@@ -7,7 +7,7 @@ public class Teste_senha {
         boolean validacao = true;
 
         // valida se a senha possui ao menos 8 caracteres
-        if (!senha.length() < 8) {
+        if (senha.length() < 8) {
             System.out.println("A senha deve ter pelo menos 8 caracteres");
             validacao = false;
         }

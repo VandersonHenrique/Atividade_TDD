@@ -2,7 +2,7 @@ public class Main{
     public static void main(String[] args) {
 
         String senha1 = "mypass";
-        String senha2 = "Mypass12!";
+        String senha2 = "Myp12!";
         String senha3 = "MypassMypass!";
         String senha4 = "mypassmypass12!";
         String senha5 = "MypassMypass12";
